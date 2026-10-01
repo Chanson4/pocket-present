@@ -1,0 +1,1 @@
+{"name":"pocket-present-local","version":"0.1.0","private":true,"description":"Markdown to one offline HTML presentation. No build, account or dependencies.","scripts":{"test":"node --test"},"license":"MIT"}
